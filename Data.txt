@@ -1,0 +1,16 @@
+$.N1.Price	120
+$.N1.ProductName	オレンジジュース
+$.N1.Quantity	4
+$.N1.SoldOutFlg	0
+$.N2.Price	130
+$.N2.ProductName	コーラ
+$.N2.Quantity	0
+$.N3.Price	110
+$.N3.ProductName	サイダー
+$.N3.Quantity	6
+$.N3.SoldOutFlg	0
+$.N4.Price	100
+$.N4.ProductName	コーヒー
+$.N4.Quantity	5
+$.N4.SoldOutFlg	0
+$.N2.SoldOutFlg	1
